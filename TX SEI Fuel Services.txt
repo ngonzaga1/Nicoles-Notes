@@ -1,0 +1,8 @@
+TX SEI Fuel Services
+
+readjust gallons for SEI
+in original text file: column AA- column AB = readjusted gallons
+
+1. get rows with only sei
+2. calculate the adjusted gallons
+3. create a column for before adjustment and after adjustment

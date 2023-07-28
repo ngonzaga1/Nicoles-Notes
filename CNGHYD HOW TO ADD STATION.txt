@@ -1,0 +1,27 @@
+CNG/HYD HOW TO ADD STATION
+
+EdisonCNG location
+C:\Users\NGONZAGA\Documents\Visual Studio 2010\Projects\EdisonCng
+
+user: sa
+pass:th##_9#th##_9#
+
+-- 04/05/2023 Example of adding Hydrogen (H2) station. For CNG, please use NG.
+-- Adding Shell Station on 1201 Harrison Street with station id 71014573 (verified thru Census.dbo.tblCnsMain).
+-- Station Id above will be surveyed beginning on March 8, 2023
+-- DO THIS TASK FIRST BEFORE ADDDING ACTUAL STATION INTO NewRetail.dbo.tblSvAddress
+INSERT tblLuSv (LuSvSurveyorId, LuSvStationId, LuSvSurveyCode, LuSvSurveyZone)
+SELECT '9998','71014573','H2',1
+
+-- 2nd task is link the station id to a surveyor id. 9998 is LSI, meaning no assigned surveyor to the survey.
+
+-- 3rd, use the program's interface TO ADD the station, including its pertinent info.
+
+-- That's it! You are done. To test. Do data entry
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CNG/HYD - Add Station From Census
+
+
+1. Search from census table using station id
+2. IF station exists in census, ask to add? If yes, then insert into tblLuSv

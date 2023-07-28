@@ -1,0 +1,16 @@
+Upload States
+
+KS - 4 qtrs
+OH - 3 months received in june 2023
+AL - last received in june 2023
+TX - last received was june 2023
+NE - once a year - 12 months 
+
+1. NE
+2. AL
+3. TX 
+3. OH - can create quarters on VB
+4. KS - can create quarters on VB
+
+*** For brands that arent matched in SOM, when u add it into SOM Details, make sure u put in the License Number so it can get rid of the mismatched entry in Upload States
+

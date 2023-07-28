@@ -1,0 +1,6 @@
+CNG/HYD Add Station From Census
+
+
+1. Search from census table using station id
+2. IF station exists in census, ask to continue? then insert into tblLuSv
+3. IF station does not exist? 

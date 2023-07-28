@@ -1,0 +1,4 @@
+save WindowsApplication3 in \\lsinas\homes\ngonzaga
+
+user id = jabueg
+pwd = s(#)nokaba@911

@@ -1,0 +1,11 @@
+SOM NOTES
+
+To Add a Brand: 
+Maintenence < Other Sources < Function Codes - then update < Then Go to SOM List, 
+Add state, Enter Start Date (Always January of that year), out code Y, Share percentage
+
+
+To Estimate with State Totals: 
+-Enter all the estimated totals into State Totals, 'E'
+-Then Run the estimate for the last month, it will run all estimated months
+

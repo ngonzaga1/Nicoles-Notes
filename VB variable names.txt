@@ -1,0 +1,7 @@
+VB variable names: 
+
+Nebraska-
+	browseBtn
+	dest_browseBtn1
+	dest_browseBtn
+	exeBtn1

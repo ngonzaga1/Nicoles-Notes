@@ -1,0 +1,48 @@
+May 17, 2023 
+Notes for LENTP5
+Created by Nicole Gonzaga
+
+
+C:\Users\NGONZAGA\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug
+
+WindowsApplication3 location
+C:\Users\NGONZAGA\Documents\Visual Studio 2010\Projects\WindowsApplication3
+
+EdisonCNG location
+C:\Users\NGONZAGA\Documents\Visual Studio 2010\Projects\EdisonCng
+
+
+NOTES: 
+-PYTHON AND PYTHON SCRIPT MUST BE IN SAME LOCATION FOR IT TO RUN
+- currently python and nebraska.py are located in C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts
+
+-Make sure that the Python script file is located in the same directory as your Visual Basic project, or provide the full path to the Python script file if it is located in a different directory.
+
+
+-To run python script in command prompt, change directory by doing: 
+cd C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts
+
+-Then c + p this code: 
+python nebraska.py --f_path C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts\2022PetroleumMktrsReportWORKFILE.xlsx --d_path C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts\ne1.txt
+
+for texas:
+python texas.py --f_path C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts\February.TXT --d_path "C:\wip\som\rick\TX" --e_path "C:\wip\som\rick\TX\TX_D2_4SOM_python.xlsx"
+
+**** Som upload for texas
+	C:\Users\NGONZAGA\Documents\Visual Studio 2010\Projects\1Update (June 2023)
+
+
+python texas.py --f_path C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts\February.TXT --d_path "C:\wip\som\rick\TX" --e_path "C:\wip\som\rick\TX"
+
+for texas diesel: 
+python texas_diesel.py --f_path C:\Users\NGONZAGA\PycharmProjects\pythonProject3\venv\Scripts\February.TXT --e_path "C:\wip\som\rick\TX"
+
+
+for alabama: 
+python alabama.py --f_path "C:\wip\som\rick\AL\Gasoline February 1-28 2023.xls" --d_path "C:\wip\som\rick\AL" --y 2023 --m 1
+
+for ohio:
+python ohio.py --f_path "C:\wip\som\rick\OH\04-2023-april_motor_fuel_report.xlsx" --d_path "C:\wip\som\rick\OH\ohio.txt" --y 2023 --m 4
+
+for kansas: 
+python kansas.py --f_path "C:\wip\som\rick\KS\2022 4th Qtr Taxable Gallons.xlsx"

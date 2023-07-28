@@ -1,0 +1,17 @@
+NJ gallonage entry NOTES
+
+1. gallonage entry - comes from S tab and Diesel tab for refunds
+	-update any gallons missing in previous month 
+
+
+2. misc credit - comes from unallocated dist tab
+	-update misc credit from last month -> from created pivot table
+
+3. diesel - calculate diesel total gallonage from pivot table	
+	-enter total in State = UD
+
+feb missing:
+dennis burke
+eastern avfuels
+global company
+petrocom

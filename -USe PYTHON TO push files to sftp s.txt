@@ -1,0 +1,22 @@
+-USe PYTHON TO push files to sftp site
+-port 27: for sftp(inside)
+	172.16.0.144 
+
+-userid: MALEX
+-password: maleX@911
+
+-homes\malex
+-try to pick up a file from the server test4chevron
+-create a file, try to upload and it should fail
+
+-ace50west844
+
+- 
+-put something in homes, and ace50west844
+
+-mirror on folder, if i put one folder in this folder, it would also appear in the other folder
+-
+
+
+-research how tp upload to sql server using python 
+-how to call a stored procedure from python 
